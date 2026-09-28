@@ -2,7 +2,7 @@
 body{
 	background-color:#f5f5f5;
 }
-h1{
+header{
 	background-color:#011e29;
 }
 .holder{
@@ -12,6 +12,16 @@ h1{
 	align-content:center;
 	padding:20px;
 }
-img{
+.pictorial-news-section{
 	width:200px;
+	border-radius:5px;
+	text-align:center;
+	padding:20px;
+	background-color:#f5f5f5;
+}
+.latest-news-section{
+	width:200px;
+	text-align:center;
+	padding:20px;
+	background-color:#f5f5f5;
 }
